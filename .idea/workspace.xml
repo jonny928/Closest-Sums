@@ -1,19 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7b332014-3d3a-47f2-8bbc-a9a4b47c6ef3" name="Default" comment="">
-      <change type="DELETED" beforePath="C:\Users\Jonathan\Documents\GitHub\Closest-Sums\src\se\liu\ida\jonny928\tddc70\closestsums\BinaryBranch.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Jonathan\Documents\GitHub\Closest-Sums\src\se\liu\ida\jonny928\tddc70\closestsums\BinaryTree.java" afterPath="" />
+    <list default="true" id="7b332014-3d3a-47f2-8bbc-a9a4b47c6ef3" name="Default" comment="With built-in types">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dictionaries/Jonathan.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/se/liu/ida/jonny928/tddc70/closestsums/Kattio.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/se/liu/ida/jonny928/tddc70/closestsums/SortedList.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/se/liu/ida/jonny928/tddc70/closestsums/Main.java" afterPath="$PROJECT_DIR$/src/se/liu/ida/jonny928/tddc70/closestsums/Main.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Closest Sums.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="7b332014-3d3a-47f2-8bbc-a9a4b47c6ef3" time="1379338505073" ignored="false" />
+    <file path="/Dummy.txt" changelist="7b332014-3d3a-47f2-8bbc-a9a4b47c6ef3" time="1379338836607" ignored="false" />
     <file path="/BinaryTree.java" changelist="7b332014-3d3a-47f2-8bbc-a9a4b47c6ef3" time="1379338131439" ignored="false" />
     <file path="/BinaryBranch.java" changelist="7b332014-3d3a-47f2-8bbc-a9a4b47c6ef3" time="1379336483655" ignored="false" />
-    <file path="/Main.java" changelist="7b332014-3d3a-47f2-8bbc-a9a4b47c6ef3" time="1379338415900" ignored="false" />
+    <file path="/Main.java" changelist="7b332014-3d3a-47f2-8bbc-a9a4b47c6ef3" time="1379350969475" ignored="false" />
     <file path="/fragment.java" changelist="7b332014-3d3a-47f2-8bbc-a9a4b47c6ef3" time="1379338400502" ignored="false" />
+    <file path="/SortedList.java" changelist="7b332014-3d3a-47f2-8bbc-a9a4b47c6ef3" time="1379350114032" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,7 +79,27 @@
       <file leaf-file-name="Main.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/se/liu/ida/jonny928/tddc70/closestsums/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="19" selection-start="225" selection-end="225" vertical-scroll-proportion="0.4047619">
+            <state line="17" column="8" selection-start="436" selection-end="436" vertical-scroll-proportion="0.76455027">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Kattio.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/se/liu/ida/jonny928/tddc70/closestsums/Kattio.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="94" column="1" selection-start="2359" selection-end="2360" vertical-scroll-proportion="0.0">
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SortedList.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/se/liu/ida/jonny928/tddc70/closestsums/SortedList.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="37" column="43" selection-start="880" selection-end="880" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -103,6 +125,8 @@
       <list>
         <option value="$PROJECT_DIR$/src/se/liu/ida/jonny928/tddc70/closestsums/BinaryBranch.java" />
         <option value="$PROJECT_DIR$/src/se/liu/ida/jonny928/tddc70/closestsums/BinaryTree.java" />
+        <option value="$PROJECT_DIR$/src/se/liu/ida/jonny928/tddc70/closestsums/SortedList.java" />
+        <option value="$PROJECT_DIR$/src/se/liu/ida/jonny928/tddc70/closestsums/Kattio.java" />
         <option value="$PROJECT_DIR$/src/se/liu/ida/jonny928/tddc70/closestsums/Main.java" />
       </list>
     </option>
@@ -341,7 +365,11 @@
       <created>1379338509965</created>
       <updated>1379338509965</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="With built-in types">
+      <created>1379338782577</created>
+      <updated>1379338782577</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -412,7 +440,7 @@
     <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="With my own types, although they are currently not working." />
+    <option name="LAST_COMMIT_MESSAGE" value="With built-in types" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -428,6 +456,7 @@
     <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
     <MESSAGE value="Second commit" />
     <MESSAGE value="With my own types, although they are currently not working." />
+    <MESSAGE value="With built-in types" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -437,9 +466,25 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/se/liu/ida/jonny928/tddc70/closestsums/SortedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="37" column="43" selection-start="880" selection-end="880" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/se/liu/ida/jonny928/tddc70/closestsums/Kattio.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="94" column="1" selection-start="2359" selection-end="2360" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/se/liu/ida/jonny928/tddc70/closestsums/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="19" selection-start="225" selection-end="225" vertical-scroll-proportion="0.4047619">
+        <state line="17" column="8" selection-start="436" selection-end="436" vertical-scroll-proportion="0.76455027">
           <folding />
         </state>
       </provider>
