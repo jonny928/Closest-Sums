@@ -52,7 +52,6 @@ public class SortedList {
             } else if (newValue > currentValue) {
                 if (middle == (max-1)) {
                     middle = max;
-                    min = max;
                 } else if (middle == max) {
                     sortedList.add(newValue);
                     size++;
@@ -60,6 +59,60 @@ public class SortedList {
                 }
                 min = middle;
                 middle = (max + min)/2;
+            }
+        }
+    }
+
+    public int findClosestMember(int query) {
+        int currentSum;
+        int leftSum;
+        int rightSum;
+        int min = 0;
+        int max = size;
+        int middle = (min + max)/2;
+        while (true) {
+            currentSum = sortedList.get(middle);
+            if (middle != 0) {
+                leftSum = sortedList.get(middle-1);
+            } else {
+                leftSum = currentSum;
+            }
+            if (middle != size-1) {
+                rightSum = sortedList.get(middle+1);
+                } else {
+                rightSum = currentSum;
+            }
+
+            if (query == currentSum) {
+                return query;
+
+            } else if (query < currentSum) {
+                if (query == leftSum) {
+                    return query;
+                } else if (query > leftSum) {
+                    if (query-leftSum > currentSum-query) {
+                        return currentSum;
+                    } else {
+                        return leftSum;
+                    }
+                } else {
+                    max = middle;
+                    middle = (max + min)/2;
+                }
+
+            } else if (query > currentSum) {
+                if (query == rightSum) {
+                    return query;
+                } else if (query < rightSum) {
+                    if (rightSum-query > query-currentSum) {
+                        return currentSum;
+                    } else {
+                        return rightSum;
+                    }
+                } else {
+                    min = middle;
+                    middle = (max + min)/2;
+                }
             }
         }
     }

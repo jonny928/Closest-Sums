@@ -1,21 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7b332014-3d3a-47f2-8bbc-a9a4b47c6ef3" name="Default" comment="With built-in types">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dictionaries/Jonathan.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/se/liu/ida/jonny928/tddc70/closestsums/Kattio.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/se/liu/ida/jonny928/tddc70/closestsums/SortedList.java" />
+    <list default="true" id="7b332014-3d3a-47f2-8bbc-a9a4b47c6ef3" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/se/liu/ida/jonny928/tddc70/closestsums/Main.java" afterPath="$PROJECT_DIR$/src/se/liu/ida/jonny928/tddc70/closestsums/Main.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/se/liu/ida/jonny928/tddc70/closestsums/SortedList.java" afterPath="$PROJECT_DIR$/src/se/liu/ida/jonny928/tddc70/closestsums/SortedList.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Closest Sums.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="7b332014-3d3a-47f2-8bbc-a9a4b47c6ef3" time="1379338836607" ignored="false" />
+    <file path="/Dummy.txt" changelist="7b332014-3d3a-47f2-8bbc-a9a4b47c6ef3" time="1379363223476" ignored="false" />
     <file path="/BinaryTree.java" changelist="7b332014-3d3a-47f2-8bbc-a9a4b47c6ef3" time="1379338131439" ignored="false" />
     <file path="/BinaryBranch.java" changelist="7b332014-3d3a-47f2-8bbc-a9a4b47c6ef3" time="1379336483655" ignored="false" />
-    <file path="/Main.java" changelist="7b332014-3d3a-47f2-8bbc-a9a4b47c6ef3" time="1379350969475" ignored="false" />
+    <file path="/Main.java" changelist="7b332014-3d3a-47f2-8bbc-a9a4b47c6ef3" time="1379363090143" ignored="false" />
     <file path="/fragment.java" changelist="7b332014-3d3a-47f2-8bbc-a9a4b47c6ef3" time="1379338400502" ignored="false" />
-    <file path="/SortedList.java" changelist="7b332014-3d3a-47f2-8bbc-a9a4b47c6ef3" time="1379350114032" ignored="false" />
+    <file path="/SortedList.java" changelist="7b332014-3d3a-47f2-8bbc-a9a4b47c6ef3" time="1379363047131" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,7 +77,7 @@
       <file leaf-file-name="Main.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/se/liu/ida/jonny928/tddc70/closestsums/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="17" column="8" selection-start="436" selection-end="436" vertical-scroll-proportion="0.76455027">
+            <state line="2" column="0" selection-start="49" selection-end="49" vertical-scroll-proportion="0.08994709">
               <folding />
             </state>
           </provider>
@@ -99,7 +97,7 @@
       <file leaf-file-name="SortedList.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/se/liu/ida/jonny928/tddc70/closestsums/SortedList.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="37" column="43" selection-start="880" selection-end="880" vertical-scroll-proportion="0.0">
+            <state line="4" column="0" selection-start="78" selection-end="78" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -125,9 +123,9 @@
       <list>
         <option value="$PROJECT_DIR$/src/se/liu/ida/jonny928/tddc70/closestsums/BinaryBranch.java" />
         <option value="$PROJECT_DIR$/src/se/liu/ida/jonny928/tddc70/closestsums/BinaryTree.java" />
-        <option value="$PROJECT_DIR$/src/se/liu/ida/jonny928/tddc70/closestsums/SortedList.java" />
         <option value="$PROJECT_DIR$/src/se/liu/ida/jonny928/tddc70/closestsums/Kattio.java" />
         <option value="$PROJECT_DIR$/src/se/liu/ida/jonny928/tddc70/closestsums/Main.java" />
+        <option value="$PROJECT_DIR$/src/se/liu/ida/jonny928/tddc70/closestsums/SortedList.java" />
       </list>
     </option>
   </component>
@@ -369,7 +367,11 @@
       <created>1379338782577</created>
       <updated>1379338782577</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="With working SortedList">
+      <created>1379351021777</created>
+      <updated>1379351021777</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -384,13 +386,13 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32890365" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32890365" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24958263" sideWeight="0.6710963" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32890365" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32890365" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -440,7 +442,7 @@
     <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="With built-in types" />
+    <option name="LAST_COMMIT_MESSAGE" value="With working SortedList; findClosestMember has been implemented.&#10;Now only lack the code to read the data, add the sums, and print the answer." />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -457,6 +459,8 @@
     <MESSAGE value="Second commit" />
     <MESSAGE value="With my own types, although they are currently not working." />
     <MESSAGE value="With built-in types" />
+    <MESSAGE value="With working SortedList" />
+    <MESSAGE value="With working SortedList; findClosestMember has been implemented.&#10;Now only lack the code to read the data, add the sums, and print the answer." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -466,13 +470,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/se/liu/ida/jonny928/tddc70/closestsums/SortedList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="37" column="43" selection-start="880" selection-end="880" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/se/liu/ida/jonny928/tddc70/closestsums/Kattio.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="94" column="1" selection-start="2359" selection-end="2360" vertical-scroll-proportion="0.0">
@@ -482,9 +479,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/se/liu/ida/jonny928/tddc70/closestsums/SortedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="0" selection-start="78" selection-end="78" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/se/liu/ida/jonny928/tddc70/closestsums/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="8" selection-start="436" selection-end="436" vertical-scroll-proportion="0.76455027">
+        <state line="2" column="0" selection-start="49" selection-end="49" vertical-scroll-proportion="0.08994709">
           <folding />
         </state>
       </provider>
